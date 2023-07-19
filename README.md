@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnaudGansmandel
-- 👀 I’m interested in Machine/Deep learning technics
+- 👀 I’m interested in Machine/Deep learning technics. I would like to find a related project to work on.
 - 🌱 I’m currently learning this field thanks to the CNAM university. I am uploading my projects/labs on this page to make a personnal code collection so that it's accessible by anyone. 
 - 📫 How to reach me : a.gansmandel@laposte.net
 
